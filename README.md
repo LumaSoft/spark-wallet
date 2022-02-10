@@ -33,7 +33,6 @@ Dark Mode:
 ```
 <a href=https://paywithcrypto.me/yourpaywallname><img style=width:215px; src=https://paywithcrypto.me/btnBTCblack.png border=0></a>
 ```
-
 <img src="https://paywithcrypto.me/btnBTCwhite.png" width="110" />
 <br>
 Light Mode:
