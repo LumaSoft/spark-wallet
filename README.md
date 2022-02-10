@@ -27,14 +27,14 @@ SparkWallet works across all devices including
 3. Select an option for sharing your paywall
 
 Here is an example of two buttons for sharing your paywall
-<br>
-<img src="https://paywithcrypto.me/btnBTCblack.png" width="120" />
 
+<br>
+<img src="https://paywithcrypto.me/btnBTCblack.png" width="125" />
 Dark Mode:
 ```
 <a href=https://paywithcrypto.me/yourpaywallname><img style=width:215px; src=https://paywithcrypto.me/btnBTCblack.png border=0></a>
 ```
-<img src="https://paywithcrypto.me/btnBTCwhite.png" width="120" />
+<img src="https://paywithcrypto.me/btnBTCwhite.png" width="125" />
 
 Light Mode:
 ```
