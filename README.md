@@ -10,8 +10,8 @@ SparkWallet is built with latest development tools and design patterns.
 - Databinding
 
 SparkWallet works across all devices including
-- Androids
-- iPhones
+- Android
+- IOS (Coming Soon)
 
 # How do I use SparkWallet?
 1. Download SparkWallet from the app store
@@ -27,14 +27,16 @@ SparkWallet works across all devices including
 3. Select an option for sharing your paywall
 
 Here is an example of two buttons for sharing your paywall
-
+<img src="https://paywithcrypto.me/btnBTCblack.png" width="110" />
+<br>
 Dark Mode:
-<img src="https://paywithcrypto.me/btnBTCblack.png" width="120" />
 ```
 <a href=https://paywithcrypto.me/yourpaywallname><img style=width:215px; src=https://paywithcrypto.me/btnBTCblack.png border=0></a>
 ```
+
+<img src="https://paywithcrypto.me/btnBTCwhite.png" width="110" />
+<br>
 Light Mode:
-<img src="https://paywithcrypto.me/btnBTCwhite.png" width="120" />
 ```
 <a href=https://paywithcrypto.me/yourpaywallname><img style=width:215px; src=https://paywithcrypto.me/btnBTCwhite.png border=0></a>
 ```
