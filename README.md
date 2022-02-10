@@ -6,7 +6,7 @@ Fully featured lightning/bitcoin wallet that works all form factors and uses lat
 * * *
 SparkWallet is built with latest development tools and design patterns.
 - Written in Kotlin
-- Android Architecture Components (Viewmodels, Livedata, Room)
+- Android Architecture Components (Viewmodels, Livedata)
 - Databinding
 
 SparkWallet works across all devices including
