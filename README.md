@@ -11,15 +11,17 @@ SparkWallet is built with latest development tools and design patterns.
 
 SparkWallet works across all devices including
 - Android
-- IOS (Coming Soon)
+- IOS
 
 # How do I use SparkWallet?
 1. Download SparkWallet from the app store
 2. Create Free SparkWallet account
 3. Start sending and receieving payments 💸💰
 
-<!-- <a href='https://play.google.com/store/apps/details?id='><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a> -->
+<a href='https://play.google.com/store/apps/details?id='><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
+<!-- <a href='https://play.google.com/store/apps/details?id='><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+ -->
 
 # How do I start sending bitcoin/lightning payments SparkWallet?
 1. Log in your SparkWallet account
