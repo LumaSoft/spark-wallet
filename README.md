@@ -20,8 +20,8 @@ SparkWallet works across all devices including
 
 <a href='https://play.google.com/store/apps/details?id=io.sparkwallet'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
 
-<!-- <a href='https://play.google.com/store/apps/details?id='><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
- -->
+<a href='https://apps.apple.com/us/app/sparkwallet-bitcoin-lightning/id1606418661'><img alt='Download on the App Store' src='https://sparkwallet.io/images/appledownloadbtn.svg' height=90px/></a>
+
 
 # How do I start sending bitcoin/lightning payments SparkWallet?
 1. Log in your SparkWallet account
