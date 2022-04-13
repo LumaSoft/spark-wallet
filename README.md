@@ -45,9 +45,9 @@ Light Mode:
 # Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screens/6.5-inch.png" width="170" />
-  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screens/6.5-inch-1.png" width="170" /> 
-  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screens/6.5-inch-2.png" width="170" />
-  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screens/6.5-inch-3.png" width="170" />
-  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screens/6.5-inch-4.png" width="170" />
+  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screenshots/screen1.png" width="170" />
+  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screenshots/screen2.png" width="170" />
+  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screenshots/screen3.png" width="170" />
+  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screenshots/screen4.png" width="170" />
+  <img src="https://raw.githubusercontent.com/LumaSoft/SparkWallet-Bitcoin-Lightning/main/screenshots/screen5.png" width="170" />
 </p>
