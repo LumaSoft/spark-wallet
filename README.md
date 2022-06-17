@@ -1,21 +1,21 @@
-# SparkWallet
+# Spark Wallet
 Fully featured lightning/bitcoin wallet that works all form factors and uses latest tools.
 
 Accepts bitcoin and lightning payments creating an end to end perfect flow for every user.
 
 * * *
-SparkWallet is built with latest development tools and design patterns.
+Spark Wallet is built with latest development tools and design patterns.
 - Written in Kotlin
 - Android Architecture Components (Viewmodels, Livedata)
 - Databinding
 
-SparkWallet works across all devices including
+Spark Wallet works across all devices including
 - Android
 - IOS
 
-# How do I use SparkWallet?
-1. Download SparkWallet from the app store
-2. Create Free SparkWallet account
+# How do I use Spark Wallet?
+1. Download Spark Wallet from the app store
+2. Create Free Spark Wallet account
 3. Start sending and receieving payments 💸💰
 
 <a href='https://play.google.com/store/apps/details?id=io.sparkwallet'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
@@ -23,7 +23,7 @@ SparkWallet works across all devices including
 <a href='https://apps.apple.com/us/app/sparkwallet-bitcoin-lightning/id1606418661'><img alt='Download on the App Store' src='https://sparkwallet.io/images/appledownloadbtn.svg' style="max-width: 100%;height: 65px;"/></a>
 
 
-# How do I start sending bitcoin/lightning payments SparkWallet?
+# How do I start accepting bitcoin/lightning payments with Spark Wallet?
 1. Log in your SparkWallet account
 2. Go to your profile and create a paywall under "Accept Bitcoin Payments"
 3. Select an option for sharing your paywall
